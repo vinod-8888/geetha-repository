@@ -15,6 +15,11 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+   <properties>
+	<sonar.host.url>http://ec2-public-ip:9000/</sonar.host.url>
+	<sonar.login></sonar.login>
+
+  </properties>
   <build>
     <finalName>01-geetha-web-app</finalName>
   </build>
