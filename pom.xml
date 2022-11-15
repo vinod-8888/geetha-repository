@@ -16,9 +16,8 @@
     </dependency>
   </dependencies>
    <properties>
-	<sonar.host.url>http://ec2-public-ip:9000/</sonar.host.url>
-	<sonar.login></sonar.login>
-
+	<sonar.host.url>http://13.232.190.84:9000/</sonar.host.url>
+	<sonar.login>7aa9721c1f9e6cf18a451a54c6a58f624dc14d0b</sonar.login>
   </properties>
   <build>
     <finalName>01-geetha-web-app</finalName>
